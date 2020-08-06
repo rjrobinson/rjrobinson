@@ -1,55 +1,76 @@
-**Robert Robinson**
+### Hi there, I'm RJ Robinson - aka AwesomeRob 👋
 
-**Location:** North Brunswick, NJ 08902 **Email:** robertj.robinson@gmail.com
+## I'm a Developer, CloudGuru, EMT, and Dog Dad!
+- 🔭 I’m currently working for SingleStop building awesome tools for those in need!
+- 🌱 I’m currently learning everything 🤣 - Netowrking and Information Security
+- 👯 I’m looking to collaborate with other content creators
+- Did I mention that I play a lot of video games
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love working in Fire and EMS when im not writting code all day
 
-**Phone:** (908) 566-6628
+### Connect with me:
 
-**SUMMARY**
+[<img align="left" alt="rjrobinson | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="rjrobinson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rjrobinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rjrobinson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Senior Software Engineer with 7+ years of experience leading the design, development, and deployment of cloud-based web applications while implementing DevOps best practices, CI/CD, and automation. Hands-on Team Lead focused on creating innovative technology solutions while maximizing software quality, performance, and scalability.
+<br />
 
-**SKILLS**
+### Languages and Tools:
 
-- **Engineering:** Roadmap Development, Architecture Design &amp; Coding, DevOps, Testing &amp; Code Coverage, Scalability, Performance, Reliability, Software Quality, Automation, Accessibility, Code Reviews, Documentation
-- **Leadership:** Strategic Planning &amp; Execution, Project Management, Prioritization, Process Improvement, Cross-functional Collaboration, Staff Hiring &amp; Management, Training &amp; Development, Coaching &amp; Mentorship, Interdepartmental Alignment, Change Management, Budgeting &amp; Resource Allocation, Executive Reporting
-- **Technology:** Ruby On Rails, JavaScript, React, Vue, Angular, Node, Golang, SQL, RabbitMQ, GraphQL, AWS, S3, RDS, EC2, ELB, Elastic Cache, Lambda, jQuery, Git, RSpec, MySQL, Postgres, Redis, RabbitMQ, Sensu, Digital Ocean, OP5, Openstack, GitHub, Heroku, Docker, Jenkins, Circle-CI, Ansible, Jira, Slack
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-**RELEVANT EXPERIENCE**
+<br />
+<br />
 
-**Senior Ruby On Rails Developer, Single Stop ( Contractor ), New York, NY 2020 - Present**
+---
 
-- Joined team to develop GraphQL API for Case Management platform for partner driven dashboards.
-- Developed AWS pipelines and coordinated provisioning of VMs along with AWS best practices, and cost saving measures.
-- Built highly available, fault tolerant systems, and set up proper SLA/SLO guides for better workflows.
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
+- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
+- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+<!-- YOUTUBE:END -->
 
-**Application Developer III (Senior), BNY Mellon, Jersey City, NJ 2019 - 2020**
+---
 
-- Built high availability ETL services using ruby on rails and rabbitMQ to support and streamline bank transactions.
-- Developed integrations with several internal APIs to produce highly detailed financial reports used to inform overall financial strategies and maintain strict compliance with all federal, state, and local regulations.
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+<!-- BLOG-POST-LIST:END -->
 
-**Lead Software Engineer, Comcast, Philadelphia, PA 2015 - 2019**
+---
 
-- Optimized applications, cut infrastructure costs by 70%, and enabled near real-time updates across the entire Comcast footprint by converting from monolithic solutions to distributed cloud-based services on AWS.
-- Hired, trained, managed, and coached a team of 11 engineers to improve system reliability and uptime.
-- Created and deployed a monitoring tool and dashboard to enable teams to analyze network and system performance and memory usage in a self-service platform. Reduced processing times from 2 hours to 2 seconds.
-- Implemented CI/CD using Implemented Capistrano, CircleCI, CodeCov, AWS Cloud Deploy, docker, and Jira, GitHub, Slack to streamline the SDLC and reduce time to release and deployment.
-- Established code review best practices to incorporate a wider range of voices, enhancing final products with new features uncovered through collaboration and knowledge sharing.
-- Built a learning culture by designating 2 hours per week as &quot;Lab Hours&quot; that allowed team members to focus on skills development and research.
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-**Software Engineer, TelTech Systems/TelAPI.com, South Amboy, NJ 2014 - 2015**
-
-- Led the digital transformation from legacy to new service-oriented architecture to decrease downtime, streamline builds and deploys, and increase performance.
-- Built the TelAPI ruby-gem from the ground up to launch new features and performance upgrades.
-- Developed micro-services in Golang and built a client for custom protobuf protocol to convert from a Python monolith, increase availability, decrease required servers, and improve performance.
-- Created automated tests for various points in the API to increase test efficiency and software quality.
-
-**Chief, North Brunswick First Aid &amp; Rescue Squad, North Brunswick, NJ 2010 - Present**
-
-- Lead a technical rescue team providing expert BLS and Rescue services for a township with 4k requests per year.
-- Developed innovative policies and standard operating guidelines to increase emergency preparedness, streamline incident response, and improve the health and safety of both crews and victims.
-
-**EDUCATION &amp; CERTIFICATIONS**
-
-- Bachelor of Science in Computer Science (In-progress), Western Governors University Expected 2021
-- Ruby on Rails Apprenticeship, Launch Academy
-- Certifications: CIW HTML &amp; CSS Specialist, CIW Site Development Associate
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
