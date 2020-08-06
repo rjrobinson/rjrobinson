@@ -43,6 +43,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing GraphQL-Ruby Mutations With RSpec](https://medium.com/@RJrobinson/testing-graphql-ruby-mutations-with-rspec-f5c7d02b1e58?source=rss-3a1e7768af4------2)
+- [How only using Heroku will make you a bad developer.](https://medium.com/@RJrobinson/how-only-using-heroku-will-make-you-a-bad-developer-4c1570f56f92?source=rss-3a1e7768af4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
