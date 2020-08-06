@@ -1,6 +1,6 @@
 ### Hi there, I'm RJ Robinson - aka AwesomeRob 👋
 
-## I'm a Developer, CloudGuru, EMT, and Dog Dad!
+## I'm a Developer, AWS CloudGuru, EMT, and Dog Dad!
 - 🔭 I’m currently working for SingleStop building awesome tools for those in need!
 - 🌱 I’m currently learning everything 🤣 - Netowrking and Information Security
 - 👯 I’m looking to collaborate with other content creators
