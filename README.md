@@ -2,11 +2,11 @@
 
 ## I'm a Developer, AWS CloudGuru, EMT, and Dog Dad!
 - 🔭 I’m currently working for SingleStop building awesome tools for those in need!
-- 🌱 I’m currently learning everything 🤣 - Netowrking and Information Security
+- 🌱 I’m currently learning everything 🤣 - Networking and Information Security
 - 👯 I’m looking to collaborate with other content creators
 - Did I mention that I play a lot of video games
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love working in Fire and EMS when im not writting code all day
+- ⚡ Fun fact: I love working in Fire and EMS when I'm not writing code all day
 
 ### Connect with me:
 
