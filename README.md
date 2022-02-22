@@ -44,7 +44,7 @@
 <img align="left" alt="RJs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjrobinson&show_icons=true&hide_border=true" />
 
 [website]: https://rjrobinson.dev
-[twitter]: https://twitter.com/rjrobinson
+[twitter]: https://twitter.com/_awesomeRob
 [youtube]: https://youtube.com/rjrobinson
 [instagram]: https://instagram.com/rjrobinson82
 [linkedin]: https://linkedin.com/in/robert-j-robinson
