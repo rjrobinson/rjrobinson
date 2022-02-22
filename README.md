@@ -1,7 +1,7 @@
 ### Hi there, I'm RJ Robinson - aka AwesomeRob 👋
 
 ## I'm a Full-Stack Developer, AWS CloudGuru, EMT, and Dog Dad!
-- 🔭 I’m currently working for @CodeClimate
+- 🔭 I’m currently working for [@CodeClimate](https://codeclimate.com)
 - 🥅 2022 Goals: Working on compleating my BSCS from WGU, and then starting my MSCS or MSSD
 - ⚡ Fun fact: I am currently serving my second term as Chief of the [North Brunswick First Aid and Rescue Squad](https://nbfars.org)
 
