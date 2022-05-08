@@ -4,7 +4,7 @@
 
 **SUMMARY**
 
-Senior Software Engineer with 7+ years of experience leading the design, development, and deployment of cloud-based web applications while implementing DevOps best practices, CI/CD, and automation. Hands-on Team Lead focused on creating innovative technology solutions while maximizing software quality, performance, and scalability.
+Senior Software Engineer with over 8 years of experience leading the design, development, and deployment of cloud-based web applications while implementing DevOps best practices, CI/CD, and automation. Hands-on Team Lead focused on creating innovative technology solutions while maximizing software quality, performance, and scalability.
 
 **SKILLS**
 
@@ -14,7 +14,12 @@ Senior Software Engineer with 7+ years of experience leading the design, develop
 
 **RELEVANT EXPERIENCE**
 
-**Senior Ruby On Rails Developer, Single Stop ( Contractor ), New York, NY 2020 - Present**
+**Senior Software Engineer, Code Climate, New York, NY MAR 2022 - Present**
+
+- Currently working on scaling and building out features on (Velocity)[https://velocity.codeclimate.com]
+
+
+**Senior Ruby On Rails Developer, Single Stop, New York, NY 2020 - Present**
 
 - Joined team to develop GraphQL API for Case Management platform for partner driven dashboards.
 - Developed AWS pipelines and coordinated provisioning of VMs along with AWS best practices, and cost saving measures.
@@ -48,6 +53,6 @@ Senior Software Engineer with 7+ years of experience leading the design, develop
 
 **EDUCATION &amp; CERTIFICATIONS**
 
-- Bachelor of Science in Computer Science (In-progress), Western Governors University Expected 2021
+- Bachelor of Science in Computer Science (In-progress), Western Governors University Expected 2023
 - Ruby on Rails Apprenticeship, Launch Academy
-- Certifications: CIW HTML &amp; CSS Specialist, CIW Site Development Associate
+- Certifications: CIW HTML &amp; CSS Specialist, CIW Site Development Associate, CompTIA Porject+, ITIL Foundations, AWS Cloud Practitioner
