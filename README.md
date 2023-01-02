@@ -14,6 +14,8 @@
 
 [resume](https://github.com/rjrobinson/rjrobinson/blob/master/RESUME.md)
 [website](https://rjrobinson.dev) 
+[CodeClimate](https://codeclimate.com) 
+[squad](https://nbfars.org) 
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][linkedin]
@@ -33,7 +35,6 @@
 ---
 
 ### 📕 Latest Blog Posts
-- 🥅 More 2022 Goals: Write more blog posts... lol
 <!-- BLOG-POST-LIST:START -->
 - [Testing GraphQL-Ruby Mutations With RSpec](https://medium.com/@RJrobinson/testing-graphql-ruby-mutations-with-rspec-f5c7d02b1e58?source=rss-3a1e7768af4------2)
 - [How only using Heroku will make you a bad developer.](https://medium.com/@RJrobinson/how-only-using-heroku-will-make-you-a-bad-developer-4c1570f56f92?source=rss-3a1e7768af4------2)
