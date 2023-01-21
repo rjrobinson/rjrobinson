@@ -36,6 +36,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explicit Time Testing is Essential for Reliable Software: RSpec Best Practices](https://medium.com/@RJrobinson/explicit-time-testing-is-essential-for-reliable-software-rspec-best-practices-e7081eccb21b?source=rss-3a1e7768af4------2)
 - [Active Record 101: A Beginner’s Guide to Structure, Form, and Nullify](https://medium.com/@RJrobinson/active-record-101-a-beginners-guide-to-structure-form-and-nullify-6b6a3bd1f600?source=rss-3a1e7768af4------2)
 - [Using De Morgans Laws in your code](https://medium.com/@RJrobinson/using-de-morgans-laws-in-your-code-876ac8524d0a?source=rss-3a1e7768af4------2)
 - [Testing GraphQL-Ruby Mutations With RSpec](https://medium.com/@RJrobinson/testing-graphql-ruby-mutations-with-rspec-f5c7d02b1e58?source=rss-3a1e7768af4------2)
