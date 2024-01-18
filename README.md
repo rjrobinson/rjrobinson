@@ -1,3 +1,6 @@
+### Badges
+[![CodeTime badge](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24044%26project%3D%26in%3D0)](https://codetime.dev)
+
 ### Hi there, I'm RJ Robinson - aka AwesomeRob 👋
 
 ## I'm a Full-Stack Developer, AWS, EMT/FireFighter/RescueTech, and Dog Dad!
