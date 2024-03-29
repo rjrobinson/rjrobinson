@@ -9,13 +9,15 @@
 - ⚡ Fun fact 1: I'm developing an app to translate dog barks into human language. The progress is slow going.
 - ⚡ Fun fact 2: I won second place in this years Annual Ugly Sweater Contest
 
-### Connect with me:
-
 [<img align="left" alt="rjrobinson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rjrobinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rjrobinson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
 
+[twitter]: https://twitter.com/_awesomerob
+[linkedin]: https://www.linkedin.com/in/robert=j-robinson
+[instagram]: https://www.instagram.com/theawesomerob
+
+<br />
 [resume](https://github.com/rjrobinson/rjrobinson/blob/master/RESUME.md)
 [website](https://rjrobinson.dev) 
 
