@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Side of Gamification: How Uber, Lyft, and DoorDash Exploit Customers and Drivers](https://medium.com/@RJrobinson/the-dark-side-of-gamification-how-uber-lyft-and-doordash-exploit-customers-and-drivers-4c42bd954b0b?source=rss-3a1e7768af4------2)
 - [Stop The Bleed: With Style!](https://medium.com/code-meet-trauma/stop-the-bleed-with-style-27153d5d052e?source=rss-3a1e7768af4------2)
 - [Code, Meet Trauma: Stop The Bleed!](https://medium.com/code-meet-trauma/code-meet-trauma-stop-the-bleed-b36887d2784f?source=rss-3a1e7768af4------2)
 - [Code, Meet Trauma: An EMT’s Approach to Legacy Maintenance](https://medium.com/code-meet-trauma/code-meet-trauma-an-emts-approach-to-legacy-maintenance-dcf6d255694c?source=rss-3a1e7768af4------2)
 - [Explicit Time Testing is Essential for Reliable Software: RSpec Best Practices](https://medium.com/@RJrobinson/explicit-time-testing-is-essential-for-reliable-software-rspec-best-practices-e7081eccb21b?source=rss-3a1e7768af4------2)
-- [Active Record 101: A Beginner’s Guide to Structure, Form, and Nullify](https://medium.com/@RJrobinson/active-record-101-a-beginners-guide-to-structure-form-and-nullify-6b6a3bd1f600?source=rss-3a1e7768af4------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
