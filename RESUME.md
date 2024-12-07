@@ -14,12 +14,17 @@ Senior Software Engineer with over 8 years of experience leading the design, dev
 
 **RELEVANT EXPERIENCE**
 
-**Senior Software Engineer, Code Climate, New York, NY MAR 2022 - Present**
+**Senior Software Engineer, Trainual, Remote 2024 - Current**
+
+- TBD
+
+
+**Senior Software Engineer, Code Climate, New York, NY MAR 2022 - 2024**
 
 - Currently working on scaling and building out features on (Velocity)[https://velocity.codeclimate.com]
 
 
-**Senior Ruby On Rails Developer, Single Stop, New York, NY 2020 - Present**
+**Senior Ruby On Rails Developer, Single Stop, New York, NY 2020 - 2022**
 
 - Joined team to develop GraphQL API for Case Management platform for partner driven dashboards.
 - Developed AWS pipelines and coordinated provisioning of VMs along with AWS best practices, and cost saving measures.
