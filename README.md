@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a **Senior Software Engineer** passionate about building impactful solutions. My current stack includes **Rails** and **React with TypeScript**, and I also enjoy working with **Python, Java, and Go**. Beyond code, I volunteer as an EMT and Firefighter.
+I'm a **Staff Software Engineer** passionate about building impactful solutions. My current stack includes **Rails** and **React with TypeScript**, and I also enjoy working with **Python, Java, and Go**. Beyond code, I volunteer as an EMT and Firefighter. Mostimportantly, I am about to be a father to a beautiful baby girl. Im a devoted husband. And I am a lover of animals, especially my little Belle! 
 
 - 🌍 Based in **New York / New Jersey**
 - ✉️ [robertj.robinson@gmail.com](mailto:robertj.robinson@gmail.com)
