@@ -3,12 +3,15 @@
 
 ## About Me
 
-I'm a **Staff Software Engineer** passionate about building impactful solutions. My current stack includes **Rails** and **React with TypeScript**, and I also enjoy working with **Python, Java, and Go**. Beyond code, I volunteer as an EMT and Firefighter. Mostimportantly, I am about to be a father to a beautiful baby girl. Im a devoted husband. And I am a lover of animals, especially my little Belle! 
+I'm a **Staff Software Engineer** who thrives on building real-world, impactful solutions. I work primarily with **Rails** and **React (TypeScript)**, and I'm equally comfortable in **Python, Java, and Go**. Whether it's backend architecture or frontend UX, I love turning complex problems into clean, maintainable code.
+
+Outside of tech, I serve my community as a volunteer **EMT and Firefighter**, and most importantly — I'm a proud **father** and devoted **husband**. I also happen to be an animal lover, especially when it comes to my sidekick, Belle 🐾.
+
+Right now, I’m pursuing my **Master’s in Software Engineering with a focus in AI Engineering** at **WGU**, sharpening my skills to lead in the future of intelligent systems.
 
 - 🌍 Based in **New York / New Jersey**
 - ✉️ [robertj.robinson@gmail.com](mailto:robertj.robinson@gmail.com)
-- 🧠 Pursuing my Master’s at **Georgia Tech**
-
+- 🎓 Earning my MSSE in **AI Engineering** at **WGU**
 ---
 
 ## GitHub Stats
