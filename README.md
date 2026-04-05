@@ -18,16 +18,6 @@ Before any of that, I spent 14 years as a volunteer EMT and served as **Chief of
 
 ---
 
-## What I'm Building
-
-- **Agentic AI systems** — LLM orchestration, MCP tooling, Claude API in production
-
-### On The Side
-- **Medicare fraud detection** — XGBoost/RF ensemble on CMS PAC PUF data with SHAP explainability
-- **Applied ML** — Kaggle, fast.ai, building intuition past the API wrapper
-
----
-
 ## Stack
 
 **Languages:** Ruby · TypeScript · Python · Go · Java  
