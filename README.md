@@ -1,7 +1,7 @@
 # RJ Robinson
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-**Staff Software Engineer · M.S. AI Engineering · 14-Year Volunteer EMT**
+**Staff Software Engineer · B.S. Computer Science· M.S. AI Engineering · 14-Year Volunteer EMT**
 
 I'm a Staff Software Engineer focused on applied AI — building agentic systems, shipping ML to production, and figuring out what actually works beyond the hype. 
 I hold a B.S in Computer Science and an M.S. in Software Engineering (AI Engineering) from WGU.
@@ -21,6 +21,8 @@ Before any of that, I spent 14 years as a volunteer EMT and served as **Chief of
 ## What I'm Building
 
 - **Agentic AI systems** — LLM orchestration, MCP tooling, Claude API in production
+
+### On The Side
 - **Medicare fraud detection** — XGBoost/RF ensemble on CMS PAC PUF data with SHAP explainability
 - **Applied ML** — Kaggle, fast.ai, building intuition past the API wrapper
 
@@ -33,15 +35,6 @@ Before any of that, I spent 14 years as a volunteer EMT and served as **Chief of
 **Web:** Rails · React · GraphQL · JSON:API  
 **Infra:** AWS · Docker · Kubernetes · DataDog · PostgreSQL  
 **Tools:** Claude Code · LM Studio · Jupyter · Weights & Biases
-
----
-
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjrobinson&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&card_width=450" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrobinson&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4" alt="Top Languages" />
-</p>
 
 ---
 
