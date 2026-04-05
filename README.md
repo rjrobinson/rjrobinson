@@ -1,93 +1,63 @@
-# Hey, I'm RJ Robinson. 👋
+# RJ Robinson
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
----
+**Staff Software Engineer · M.S. AI Engineering · 14-Year Volunteer EMT**
 
-## Staff Software Engineer · AI Engineer · Builder · First Responder
+I'm a Staff Software Engineer focused on applied AI — building agentic systems, shipping ML to production, and figuring out what actually works beyond the hype. 
+I hold a B.S in Computer Science and an M.S. in Software Engineering (AI Engineering) from WGU.
 
-I build things that matter — at scale, with intelligence, and with purpose.
-
-By day, I'm a **Staff Software Engineer** at [Trainual](https://trainual.com), shipping agentic AI workflows and leading applied AI engineering on a $26M+ ARR SaaS platform. I work primarily in **Rails**, **React (TypeScript)**, and **Python**, and I'm equally at home designing systems architecture or deploying ML models to production.
-
-I hold an **M.S. in Software Engineering (AI Engineering)** from **WGU** — because I believe the engineers who understand the full stack of intelligence are the ones who will define what comes next.
+Before any of that, I spent 14 years as a volunteer EMT and served as **Chief of Operations** at North Brunswick First Aid & Rescue Squad. That background informs how I think about systems: failure modes matter, reliability isn't optional, and the cost of getting it wrong is real.
 
 ---
 
-## 🤖 I Run EITL — Engineer in the Loop
+## EITL — Engineer in the Loop
 
-> *Practitioner-first AI engineering content. No hype. Just signal.*
+> *Practitioner-first AI engineering. No hype. Just signal.*
 
-**[engintheloop.com](https://engintheloop.com)** — A YouTube channel built for engineers who are actually building with AI, not just talking about it. I cover real tooling, real incidents, real tradeoffs.
-
----
-
-## 🧠 What I'm Working On
-
-- **Applied ML** — Kaggle competitions, fast.ai, building intuition beyond the API call
-- **Agentic AI systems** — Claude-powered workflows, MCP tooling, LLM orchestration
-- **Medicare fraud detection** — ML ensemble (XGBoost + RF) on CMS PAC PUF data with SHAP explainability
-- **EITL** — Growing a practitioner AI engineering community from the ground up
+**[engintheloop.com](https://engintheloop.com)** · YouTube channel for engineers actually building with AI — real tooling, real incidents, real tradeoffs.
 
 ---
 
-## 🚑 14 Years as a Volunteer EMT — Former Chief of Operations
+## What I'm Building
 
-Before I was deploying models, I was deploying ambulances.
-
-I spent 14 years as a volunteer EMT with **North Brunswick First Aid & Rescue Squad**, including serving as **Chief of Operations** — managing crews, coordinating mass casualty responses, and making high-stakes decisions under pressure. That background shapes how I think about systems: reliability, failure modes, and the cost of getting it wrong.
+- **Agentic AI systems** — LLM orchestration, MCP tooling, Claude API in production
+- **Medicare fraud detection** — XGBoost/RF ensemble on CMS PAC PUF data with SHAP explainability
+- **Applied ML** — Kaggle, fast.ai, building intuition past the API wrapper
 
 ---
 
-## 🛠 Tech Stack
+## Stack
 
 **Languages:** Ruby · TypeScript · Python · Go · Java  
-**AI/ML:** PyTorch · fastai · scikit-learn · Keras · XGBoost · SHAP · LangChain · Claude API  
-**Web:** Rails · React · GraphQL · REST · JSON:API  
+**AI/ML:** PyTorch · fastai · scikit-learn · Keras · XGBoost · SHAP · Claude API  
+**Web:** Rails · React · GraphQL · JSON:API  
 **Infra:** AWS · Docker · Kubernetes · DataDog · PostgreSQL  
 **Tools:** Claude Code · LM Studio · Jupyter · Weights & Biases
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <p align="left">
-  <a href="https://github.com/rjrobinson">
-    <img src="https://github-readme-stats.vercel.app/api?username=rjrobinson&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&card_width=450" alt="RJ Robinson's GitHub Stats" />
-  </a>
-  <a href="https://github.com/rjrobinson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrobinson&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rjrobinson&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&card_width=450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrobinson&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rjrobinson&theme=darkhub&no-frame=true&row=1)](https://github.com/rjrobinson)
-
----
-
-## 🔗 Find Me
-
 <p align="left">
   <a href="https://engintheloop.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/EITL-Engineer_in_the_Loop-00bcd4?style=for-the-badge&logo=youtube&logoColor=white" alt="EITL" />
+    <img src="https://img.shields.io/badge/EITL-engintheloop.com-00bcd4?style=for-the-badge&logo=youtube&logoColor=white" alt="EITL" />
   </a>
   <a href="https://www.linkedin.com/in/robert-j-robinson" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-robert--j--robinson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.x.com/_AwesomeRob" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-_AwesomeRob-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  <a href="https://www.github.com/rjrobinson" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-rjrobinson-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/X-_AwesomeRob-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:robertj.robinson@gmail.com">
     <img src="https://img.shields.io/badge/Email-robertj.robinson@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-*Father. Engineer. First Responder. Lifelong builder.*  
-*If you're making something real with AI — let's talk.*
+*Father. Engineer. First Responder.*
